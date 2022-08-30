@@ -45,7 +45,7 @@ It takes me about 15 minutes.
 
 **Q:** What kind of film do you like?
 
-**A:** I guess I have to go for action films. The main reasons why I'm **a big fan of** this type is that I always feel exited and relaxed when watching them. Especially, seeing a film in the cinema **makes me thrilled** because there are a big screen and a better sound system which will **make the movies more impressive**.
+**A:** I guess I have to **go for** action films. The main reasons why I'm **a big fan of** this type is that I always feel exited and relaxed when watching them. Especially, seeing a film in the cinema **makes me thrilled** because there are a big screen and a better sound system which will **make the movies more impressive**.
 
 **Q:** What kind of book do you like?
 
@@ -79,8 +79,8 @@ It takes me about 15 minutes.
 
 **Q:** What is the kind of food do you like?
 
-**A:** You should wear a mask when going outside, often sanitize your hands and avoid crowded places. The reason behind that is because Covid-19 affects your health a lot so you need to minimizethe chance to catch Covid-19.
+**A:** I love to eat egg fried rice because it is very delicious, doesn’t require a lot of ingredients and is very easy to make.
 
 **Q:** What can you do tokeep yourself healthy in Covid-19?
 
-**A:** I love to eat egg fried rice because it is very delicious, doesn’t requirea lot of ingredients and is very easy to make.
+**A:** You should wear a mask when going outside, often sanitize your hands and avoid crowded places. The reason behind that is because Covid-19 affects your health a lot so you need to minimizethe chance to catch Covid-19.
