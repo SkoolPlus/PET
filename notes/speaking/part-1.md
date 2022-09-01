@@ -69,7 +69,7 @@ It takes me about 15 minutes.
 
 **Q:** What are you going to do next weekend?
 
-**A:** I'm going to have a lot of things to do next weekend. On Saturday, I will meet up with my friends to go shopping in the supermarket. Then, watch a movie to get out of stress. After that, we are going to eat some food and drinks at a favorite street stall. On Sunday, I **would like** to **have lie** in until 8 am. Then I will do all tasks for my study for next week.
+**A:** I'm going to have a lot of things to do next weekend. On Saturday, I will meet up with my friends to go shopping in the supermarket. Then, watch a movie to get out of stress. After that, we are going to eat some food and drink at a favorite street stall. On Sunday, I **would like** to **have lie** in until 8 am. Then I will do all tasks for my study for next week.
 
 **Q:** What part of your day do you like best?
 
