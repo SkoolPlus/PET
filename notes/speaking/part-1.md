@@ -1,4 +1,4 @@
-**Q:** Can I have your marksheet, please?
+**Q:** Can I have your mark sheet, please?
 
 **A:** Yes, here it is.
 
@@ -14,17 +14,17 @@
 
 **A:** I would say that the weather here is so nice and comfortable. It has four seasons but sometimes it can also get pretty hot, especially in summer.
 
-**Q:** Who are you live with? (Do you have any brother or sister in your family?)
+**Q:** Who are you living with? (Do you have any brothers or sisters in your family?)
 
-**A:** My family has four peoples: my parents, me and my brother. Both my parents are middle-age. My brother is younger than me. We **get on well and help together**.
+**A:** My family has four people: my parents, me, and my brother. Both my parents are middle-aged. My brother is younger than me. We **get on well and help together**.
 
 **Q:** Where is your address? How far is it from your place to your university?
 
-**A:** My address is at 82 Nguyen Binh Khiem Street, Dang Giang Ward, Hai Phong City. It is about 5 kilometer. It is not far from my university, so I **find it easy to get there** every day.
+**A:** My address is at 82 Nguyen Binh Khiem Street, Dang Giang Ward, Hai Phong City. It is about 5 kilometers. It is not far from my university, so I **find it easy to get there** every day.
 
-**Q:** How do you go to your university everyday?
+**Q:** How do you go to your university every day?
 
-**A:** I usually go to school by my motorbike. It is about 5 kilometer from my place to my school, so I find it easy to get there every day.
+**A:** I usually go to school by my motorbike. It is about 5 kilometers from my place to my school, so I find it easy to get there every day.
 It takes me about 15 minutes.
 
 **Q:** What is your job?
@@ -37,7 +37,7 @@ It takes me about 15 minutes.
 
 **Q:** What do you like doing in your free time?
 
-**A:** Well, when I get free, I'm keen on listening to music. It **helps me to get out of stress**. Sometimes, I'm interested in reading books, newspapers or magazines to **enrich my knowledge**. At the weekends, I often meet up with my friends to go to cinema, enjoy good food, drink milk tea and chat together. I also play volleyball with my friends after studying. It helps me to keep fit.
+**A:** Well, when I get free, I'm keen on listening to music. It **helps me to get out of stress**. Sometimes, I'm interested in reading books, newspapers, or magazines to **enrich my knowledge**. At the weekends, I often meet up with my friends to go to the cinema, enjoy good food, drink milk tea, and chat together. I also play volleyball with my friends after studying. It helps me to keep fit.
 
 **Q:** What kind of music do you like?
 
@@ -45,7 +45,7 @@ It takes me about 15 minutes.
 
 **Q:** What kind of film do you like?
 
-**A:** I guess I have to **go for** action films. The main reasons why I'm **a big fan of** this type is that I always feel exited and relaxed when watching them. Especially, seeing a film in the cinema **makes me thrilled** because there are a big screen and a better sound system which will **make the movies more impressive**.
+**A:** I guess I have to **go for** action films. The main reason why I'm **a big fan of** this type is that I always feel excited and relaxed when watching them. Especially, seeing a film in the cinema **makes me thrilled** because there are a big screen and a better sound system which will **make the movies more impressive**.
 
 **Q:** What kind of book do you like?
 
@@ -53,15 +53,15 @@ It takes me about 15 minutes.
 
 **Q:** What kind of sport do you like?
 
-**A:** I have a healthy lifestyle, so I often **take up** some sports such as badminton, volleyball and tennis. Practicing sports **brings me many benefits** to my health. It keeps me stay in shape and **give me a chance to make friends** with other sutdents.
+**A:** I have a healthy lifestyle, so I often **take up** some sports such as badminton, volleyball, and tennis. Practicing sports **brings many benefits** to my health. It keeps me stay in shape and **gives me a chance to make friends** with other students.
 
-**Q:** How long do you have learnt English?
+**Q:** How long do you have learned English?
 
-**A:** I have learnt English for 10 years. I find it difficult to learn English but I will try my best. This language will help me to get a good job in the future.
+**A:** I have learned English for 10 years. I find it difficult to learn English but I will try my best. This language will help me to get a good job in the future.
 
 **Q:** Do you like learning English?
 
-**A:** Yes, I do. I'm interested in English **because of three reasons**. First, it is an international language, so it helps me to get a good job in the future. Second, I will have a chance to communicate as well as make friends with foreigners. Third, I can easily read English documents, newspapers or magazines to enrich my knowledge.
+**A:** Yes, I do. I'm interested in English **because of three reasons**. First, it is an international language, so it helps me to get a good job in the future. Second, I will have a chance to communicate as well as make friends with foreigners. Third, I can easily read English documents, newspapers, or magazines to enrich my knowledge.
 
 **Q:** What did you do last Sunday?
 
@@ -69,7 +69,7 @@ It takes me about 15 minutes.
 
 **Q:** What are you going to do next weekend?
 
-**A:** I'm going to have a lot of things to do next weekend. On Saturday, I will meet up with my friends to go shopping in the supermarket. Then, watch a movie to get out of stress. After that we are going to eat some foods and drinks at a favorite street stall. On Sunday, I **would like** to **have lie** in until 8 am. Then I will do all tasks of my study for next week.
+**A:** I'm going to have a lot of things to do next weekend. On Saturday, I will meet up with my friends to go shopping in the supermarket. Then, watch a movie to get out of stress. After that, we are going to eat some food and drinks at a favorite street stall. On Sunday, I **would like** to **have lie** in until 8 am. Then I will do all tasks for my study for next week.
 
 **Q:** What part of your day do you like best?
 
@@ -77,13 +77,13 @@ It takes me about 15 minutes.
 
 **Q:** Who is the member you love most in your family?
 
-**A:** I guess I'm closest to my mom. Because she takes care of me, is a good company to be with me, always listens to me when I have a problem. By the way, we share same interests and also have a lot of fun together.
+**A:** I guess I'm closest to my mom. Because she takes care of me, is a good company to be with me, and always listens to me when I have a problem. By the way, we share the same interests and also have a lot of fun together.
 
 **Q:** What is the kind of food do you like?
 
-**A:** Well, I would say that I’m not a picky eater and I can eat like the whole universe. But if I have to choose, I would definitely go for Vietnamese traditional food because although it does not win any points for complexity, it is all about the combination of fresh ingredients, intense flavors, and ease of cooking and preparation, so it wins my heart.
+**A:** Well, I would say that I’m not a picky eater and I can eat like the whole universe. But if I had to choose, I would definitely go for traditional Vietnamese food because although it does not win any points for complexity, it is all about the combination of fresh ingredients, intense flavors, and ease of cooking and preparation, so it wins my heart.
 > [Sample topic food](https://ielts-fighter.com/speaking/ielts-speaking-topic-food-and-cooking_mt1565179908.html)
 
-**Q:** What can you do to keep yourself healthy in Covid-19?
+**Q:** What can you do to keep yourself healthy during Covid-19?
 
-**A:** You should wear a mask when going outside, often sanitize your hands and avoid crowded places. The reason behind that is because Covid-19 affects your health a lot, so you need to minimizethe chance to catch Covid-19.
+**A:** You should wear a mask when going outside, often sanitize your hands, and avoid crowded places. The reason behind that is that Covid-19 affects your health a lot, so you need to minimize the chance to catch Covid-19.
