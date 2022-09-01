@@ -16,7 +16,7 @@
 
 **Q:** Who are you live with? (Do you have any brother or sister in your family?)
 
-**A:** My family has four peoples: my parents, me and my younger brother. We **get on well and help together**.
+**A:** My family has four peoples: my parents, me and my brother. Both my parents are middle-age. My brother is younger than me. We **get on well and help together**.
 
 **Q:** Where is your address? How far is it from your place to your university?
 
