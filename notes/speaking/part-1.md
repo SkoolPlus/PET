@@ -81,9 +81,9 @@ It takes me about 15 minutes.
 
 **Q:** What is the kind of food do you like?
 
-**A:** Well, I would say that I’m not a picky eater and I can eat like the whole universe. But if I have to choose, I would definitely go for Vietnamese traditional cuisine because although it does not win any points for complexity, it is all about the combination of fresh ingredients, intense flavours, and ease of cooking and preparation, so it wins my heart.
+**A:** Well, I would say that I’m not a picky eater and I can eat like the whole universe. But if I have to choose, I would definitely go for Vietnamese traditional food because although it does not win any points for complexity, it is all about the combination of fresh ingredients, intense flavors, and ease of cooking and preparation, so it wins my heart.
 > [Sample topic food](https://ielts-fighter.com/speaking/ielts-speaking-topic-food-and-cooking_mt1565179908.html)
 
 **Q:** What can you do to keep yourself healthy in Covid-19?
 
-**A:** You should wear a mask when going outside, often sanitize your hands and avoid crowded places. The reason behind that is because Covid-19 affects your health a lot so you need to minimizethe chance to catch Covid-19.
+**A:** You should wear a mask when going outside, often sanitize your hands and avoid crowded places. The reason behind that is because Covid-19 affects your health a lot, so you need to minimizethe chance to catch Covid-19.
