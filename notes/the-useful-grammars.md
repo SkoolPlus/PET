@@ -32,11 +32,9 @@
 1. **It's not necessary** *for you to do* this.
 1. **It's kind of** you *to help* me.
 1. I **waste a lot of money** *buying* new clothes.
-1. I **spend** 2 hours **studying** a day.
 1. I **spend** 2 hours **on my homeworks** everyday.
 1. I **fint it difficult** *to learn* about English.
 1. I **prefer** *reading books to watching TV*.
-1. I **prefer** *spending money to earning money*.
 1. I **would rather** *read books than watch TV*.
 1. I **would rather** *stay* at home.
 1. I **would rather you stayed** at home today.
