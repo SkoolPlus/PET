@@ -11,12 +11,12 @@
 7. Let me know if you need any help?
 8. Of course, I'll go to.../I'm more than happy to...
 9. Sorry, but it's impossible for me to...
-10. The thing is that...
+10. The thing is that.../This (not) means that...
 11. Could you tell me..?
 12. I would prefer to.../I'd love is to...
 13. Good luck with.../You can do it...
 14. Do you think I should.../What would you do?
-15. What I really loved was...
+15. What I really loved was.../The thing that I like most about... is that...
 16. Be careful with...
 
 ## Must study
@@ -35,10 +35,18 @@
 1. I **spend** 2 hours **on my homeworks** everyday.
 1. I **fint it difficult** *to learn* about English.
 1. I **prefer** *reading books to watching TV*.
+1. I **prefer** *to reading* books.
+1. I **would prefer** *to reading* books.
+1. I **would prefer** *to reading books rather than watching TV*.
 1. I **would rather** *read books than watch TV*.
 1. I **would rather** *stay* at home.
 1. I **would rather you stayed** at home today.
+1. Math is **harder/more easy than** English.
+1. Math is **the hardest** subject.
+1. **One of the biggest celebrition** in my country is Tet.
 1. I was **amazed at/suprised at** *his big beautifull villa*.
+1. We can **make it better**.
+1. I **love you a lot**/I **love you so much**.
 1. Her mother was very **angry at** *her bad marks*.
 1. I am **good at/bad at** Math.
 1. I am so **tired of** *studying* too much everyday.
