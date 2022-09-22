@@ -10,6 +10,10 @@
 
 **A:** I live in Bac Ninh which is **famous for** Quan ho folk music.
 
+**Q:** Are you from a big city or a small town?
+
+**A:** I come from a small province. It has a **breathtaking view of picturesque landscapes with** rolling mountains and greenish lakes.
+
 **Q:** What is the weather like in your city?
 
 **A:** I would say that the weather here is so nice and comfortable. It has four seasons but sometimes it can also get pretty hot, especially in summer.
@@ -142,6 +146,7 @@ It takes me about 15 minutes.
 **Q:** What is the kind of food do you like?
 
 **A:** Well, I would say that I’m not a picky eater and I can eat like the whole universe. But if I had to choose, I would definitely go for traditional Vietnamese food because although it does not win any points for complexity, it is all about the combination of fresh ingredients, intense flavors, and ease of cooking and preparation, so it wins my heart.
+
 > [Sample topic food](https://ielts-fighter.com/speaking/ielts-speaking-topic-food-and-cooking_mt1565179908.html)
 
 **Q:** Do you think most people like chocolate? Why?
