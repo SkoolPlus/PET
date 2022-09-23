@@ -6,3 +6,4 @@
 - [Writing the Perfect Email for B1 Preliminary](https://kseacademy.com/cambridge/b1-preliminary-pet/writing/email-english/)
 - [How to Write a Story for B1 Preliminary (PET) Writing](https://kseacademy.com/cambridge/b1-preliminary-pet/writing/story/)
 - [How to write an article for B1 Preliminary Writing (PET)](https://kseacademy.com/cambridge/b1-preliminary-pet/writing/articulo/)
+- [Spoken English Lessons - Oxford English Online (YouTube)](https://www.youtube.com/playlist?list=PLD6t6ckHsruYoalxbzcjX1TNn4h7ShiRk)
