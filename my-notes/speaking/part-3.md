@@ -21,6 +21,7 @@
 - You are right.
 - That is a good idea.
 - That is true.
+- I could not agree more.
 
 ### Disagree
 

@@ -2,7 +2,7 @@
 
 ## Sentense
 
-- What I can see the first in this picture is a group of... people (number of people and doing something)
+- What I can see the first in this picture is a group of people...3 (number of people and doing something)
 - He/She is wearing... (clothes)
 - He/She looks pretty hansome/beautiful with... (describe how they look)
 - He/She has (a short black hair)... (describe how they look)
