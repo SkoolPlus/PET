@@ -38,6 +38,7 @@
 1. **It's kind of** you *to help* me.
 1. I **waste a lot of money** *buying* new clothes.
 1. I **spend** 2 hours **on my homeworks** everyday.
+1. I’ve **spent** years **building** up my collection.
 1. I **fint it difficult** *to learn* about English.
 1. I **prefer** *reading books to watching TV*.
 1. I **prefer** *to reading* books.
