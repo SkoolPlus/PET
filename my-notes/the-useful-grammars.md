@@ -40,10 +40,12 @@
 1. I **spend** 2 hours **on my homeworks** everyday.
 1. I’ve **spent** years **building** up my collection.
 1. I **fint it difficult** *to learn* about English.
+1. I **prefer** *to read books*.
+1. I **prefers** to read books at home **rather than** hang out at coffee shops.
 1. I **prefer** *reading books to watching TV*.
-1. I **prefer** *to reading* books.
-1. I **would prefer** *to reading* books.
-1. I **would prefer** *to reading books rather than watching TV*.
+1. I **would prefer** *to read books*.
+1. I **would prefer** *to read books* **rather than** *watch TV*.
+1. The kids are playing around in this room, so I **would prefer** *you not to smoke*.
 1. I **would rather** *read books than watch TV*.
 1. I **would rather** *stay* at home.
 1. I **would rather you stayed** at home today.
@@ -70,7 +72,6 @@
 1. Can you **lend me some money**?
 1. Can you **provide us with some books** in history?
 1. I met her in Hanoi **by chance** last week.
-1. She can't **stand** *laughing* at her little dog.
 1. I **want to go** to the cinema with you tonight.
 1. She **wants someone to make** her a dress.
 1. The teacher **made us do** a lot of homework.
@@ -84,15 +85,15 @@
 1. I **used to smoke** 10 cigarettes a day.
 1. I **try cooking** this food.
 1. I **try to learn** hard.
-1. I **remember seeing** this film.
-1. I **remember to do** my homework.
-1. We **stopped going** out late.
-1. We **stopped to buy** some petrol.
+1. I **remember ѕending** an email to my boѕѕ laѕt ᴡeek. 
+1. I alᴡaуѕ **remember to loᴄk** the door ᴡhen I go out. 
+1. I **stopped playing** football to go home to do homework.
+1. It’s time for me to **stop to** think about the future.
 1. You **need to work** harder.
 1. This car **needs reparing**.
 1. You can **rely on him**.
 1. I always **keep promises**.
-1. I'm **able to/capable of** *speaking* English.
+1. I'm **able to/capable of** *speak/speaking* English.
 1. I **make sure of** that information.
 1. I **have many works to do** this week.
 1. You **must/have better/should** *go* to see the doctor.
