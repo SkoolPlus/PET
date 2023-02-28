@@ -101,5 +101,5 @@
 1. **This is the first time** we *have visited* this place.
 1. I **had my hair cut** yesterday.
 1. I **had no idea of** this word.
-1. Would you **mind closing** the door for me?
+1. **Would you mind** *closing* the door for me?
 1. **Let him come** in.
