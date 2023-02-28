@@ -41,7 +41,7 @@
 1. I’ve **spent** years **building** up my collection.
 1. I **fint it difficult** *to learn* about English.
 1. I **prefer** *to read books*.
-1. I **prefers** to read books at home **rather than** hang out at coffee shops.
+1. I **prefer** to read books at home **rather than** hang out at coffee shops.
 1. I **prefer** *reading books to watching TV*.
 1. I **would prefer** *to read books*.
 1. I **would prefer** *to read books* **rather than** *watch TV*.
