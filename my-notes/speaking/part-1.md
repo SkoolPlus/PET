@@ -30,16 +30,15 @@
 
 **Q:** Who are you living with? (Do you have any brothers or sisters in your family?)
 
-**A:** My family has four people: my parents, me, and my brother. Both my parents are middle-aged. My brother is younger than me. We **get on well and help together**.
+**A:** My family has four people: my parents, me, and my brother. Both my parents are middle-aged and they are very hard working to take care of us. My brother is younger than me. We **get on well and help together**.
 
 **Q:** Where is your address? How far is it from your place to your university?
 
-**A:** My address is at 82 Nguyen Binh Khiem Street, Dang Giang Ward, Hai Phong City. It is about 5 kilometers. It is not far from my university, so I **find it easy to get there** every day.
+**A:** My address is at 82 Nguyen Binh Khiem Street, Dang Giang Ward, Hai Phong City. It is not far from my university, so I **find it easy to get there** every day.
 
 **Q:** How do you go to your university every day?
 
-**A:** I usually go to school by my motorbike. It is about 5 kilometers from my place to my school, so I find it easy to get there every day.
-It takes me about 15 minutes.
+**A:** I usually go to school by my motorbike. It is about 5 kilometers from my place to my school, so I find it easy to get there every day. It takes me about 15 minutes.
 
 **Q:** What is your job? (Do you work or study?)
 
