@@ -1,11 +1,6 @@
 # Introduction
 
-**Q:** Can I have your mark sheet, please?
-
-**A:** Yes, here it is.
-
 **Q:** What is your name? And how old are you?
-
 **A:** My name is Nguyen Long Nhat (You can **call me** Nhat). I'm 23 years old.
 
 **Q:** Where do you live? (Where are you come from?)
@@ -34,7 +29,7 @@
 
 **Q:** Where is your address? How far is it from your place to your university?
 
-**A:** My address is at 82 Nguyen Binh Khiem Street, Dang Giang Ward, Hai Phong City. It is not far from my university, so I **find it easy to get there** every day.
+**A:** My address is at 82 Nguyen Binh Khiem Street, Dang Giang Wa Phonrd, Haig City. It is not far from my university, so I **find it easy to get there** every day.
 
 **Q:** How do you go to your university every day?
 
@@ -98,7 +93,7 @@
 
 **Q:** Do you like celebrities?
 
-**A:** My favorite artist is Martin Garrix, who is the best DJ in the world. I'm a big fan of Martin because when I listen to his music I get more positive energy and focus on my work. One of his music I love most is Animals.
+**A:** My favorite artist is Martin Garrix, who is the best DJ in the world. I'm a big fan of Martin because when I listen to his music, I get more positive energy and focus on my work. One of his music I love most is Animals.
 
 **Q:** What kind of film do you like?
 
@@ -173,3 +168,8 @@
 **Q:** Why do some people throw garbage on the street?
 
 **A:** There are many reasons for this. Firstly, it is common to see people discard trash out of their kitchen windows or balconies because they are too lazy to put it in its rightful places. Secondly, people choose to throw garbage on the roads because there are no strict warnings or punishments for those crimes.
+
+**Q:** Where do you like to go for a celebration meal? Why?🍽️
+
+**A:** I enjoy going out to eat with both my family and my friends, but for different reasons. With my family, I like to catch up on what’s going on in their lives and share some quality time together. With my friends, I like to have fun and laugh about our experiences and interests.🙂
+I guess it depends on the occasion and the mood. Sometimes I prefer going out to eat with my family, and sometimes I prefer going out to eat with my friends.
