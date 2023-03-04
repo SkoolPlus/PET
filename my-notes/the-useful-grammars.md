@@ -32,7 +32,7 @@
 1. They are **intelligent enough** for me *to teach* English.
 1. I don't have **enough time** *to study*.
 1. **It's time** *for me to ask* all of you for this question.
-1. **It's impossible** for me *to go* to the party.
+1. **It's impossible** for e m*to go* to the party.
 1. **It takes me** *a hour to get* to school.
 1. **It's not necessary** *for you to do* this.
 1. **It's kind of** you *to help* me.
@@ -46,9 +46,6 @@
 1. I **would prefer** *to read books*.
 1. I **would prefer** *to read books* **rather than** *watch TV*.
 1. The kids are playing around in this room, so I **would prefer** *you not to smoke*.
-1. I **would rather** *read books than watch TV*.
-1. I **would rather** *stay* at home.
-1. I **would rather you stayed** at home today.
 1. Math is **harder/more easy than** English.
 1. Math is **the hardest** subject.
 1. **One of the biggest celebrition** in my country is Tet.
@@ -90,7 +87,6 @@
 1. I **stopped playing** football to go home to do homework.
 1. It’s time for me to **stop to** think about the future.
 1. You **need to work** harder.
-1. This car **needs reparing**.
 1. You can **rely on him**.
 1. I always **keep promises**.
 1. I'm **able to/capable of** *speak/speaking* English.
